@@ -1,4 +1,4 @@
-//Islam
+#Islam
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-//Sidan
+#Sidan
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-//Saber
+#Saber
 def alter(data,bit):
     bit-=1
     mydata = list(data)
